@@ -11,6 +11,6 @@ Simulador de piano
 
 # Autoria
 Pedro José Rodrigues Gomes em parceria com o Bootcamp da DIO
-e-mail: pd420000@gmail.com
-GitHub: https://github.com/pedrojose1999
+- e-mail: pd420000@gmail.com
+- GitHub: https://github.com/pedrojose1999
 
